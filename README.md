@@ -1,10 +1,9 @@
 # Uncertainty-Visualisation-for-Stock-Prediction
-This repository contains the code for LSTM model for predicting stock prices of the company "Google". 
-As mentioned in the project report, 3 models (Multilayer Perceptron, LSTM, CNN) were developed for stock prices prediction and, furthermore, 
-uncertainty values were calculated for the predicted prices. 
-The models have been tested on "Google", "Amazon" and "Facebook" stock price databases. 
-In the report, training and testing of all models on "Amazon" database has been discussed along with the results and uncertainty calculation.
-Uncertainty Visualisation Graphs are also attached in the report. 
-The designs for the models are explained in the report as well.
+This repository contains the code for an LSTM model built for predicting stock prices of the company "Google", and the report describes the 3 models (Multilayer Perceptron, LSTM, CNN) which were devleoped for solving the same problem.
+
+For experimentation, the models were separately trained and tested to predict the stock prices of comapnies - Google, Amazon and Facebook.
+
 The application of the project lies in uncertainty visualisation which can be useful for investors to make decisions for 
 stock purchanse and stock selling.
+
+The uncertainty calculation is discussed in the report, and it also contains the visualisation graphs.
