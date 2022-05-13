@@ -1,4 +1,4 @@
-# Uncertainty-Visualisation-for-Stock-Prediction
+# Uncertainty-Visualisation-in-Stock-Prediction
 This repository contains the code for an LSTM model built for predicting stock prices of the company "Google", and the report describes the 3 models (Multilayer Perceptron, LSTM, CNN) which were devleoped for solving the same problem.
 
 For experimentation, the models were separately trained and tested to predict the stock prices of comapnies - Google, Amazon and Facebook.
